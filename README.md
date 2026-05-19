@@ -63,8 +63,6 @@ Para validar las métricas de contribución, calidad de sintaxis y frecuencia de
 
 ## Estadísticas de Actividad
 
-Para mantener un perfil sobrio, las métricas de este ecosistema se procesan localmente de forma automatizada cada 12 horas:
-
 ![Estadísticas Locales de GitHub](./assets/github-metrics.svg)
 
 ---
