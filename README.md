@@ -8,7 +8,6 @@
 
 Desarrollador Fullstack especializado en construir aplicaciones web y móviles de alto rendimiento, seguras y escalables. Apasionado por la optimización de código, la arquitectura limpia y el desarrollo de sistemas robustos ante vulnerabilidades bajo el ecosistema open source.
 
-- **Estado actual:** Disponible para nuevos proyectos o empleo.
 - **Ubicación:** La Paz, Bolivia.
 - **Idiomas:** Español, Inglés.
 
