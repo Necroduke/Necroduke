@@ -1,6 +1,6 @@
 # Andres Alejandro Calderon Vertiz
 
-## Desarrollador Fullstack | Diseñador UI/UX | Arquitecto de Software
+## Desarrollador Fullstack
 
 ![Banner de presentación](./assets/banner.png)
 
